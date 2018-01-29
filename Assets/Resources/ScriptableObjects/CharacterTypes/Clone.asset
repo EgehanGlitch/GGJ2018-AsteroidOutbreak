@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 312345b939408714ca67a9cba07a2a3d, type: 3}
+  m_Name: Clone
+  m_EditorClassIdentifier: 
+  Quotes:
+  - One of the clones tried to kiss me last night.
+  - Would you kiss a clone of yourself to find out how good at kissing you were?
+  - Where do you fall in the nature vs nurture debate? Clones think nature is more
+    important.
+  - Do you think if something happened to me, the other clones would be sad?
+  - If I need a kidney, I'm glad I have so many potential donors. It's good to be
+    a clone.
+  - Why do they make all the clones share a bed? Science is weird.
+  - Did you commit a crime to be sent to this asteroid? My crime is being a clone.
+  - "The best part about being a clone is being able to share your clothes. It\u2019s
+    also the worst part."
+  - "I\u2019m losing my hair. All the clones are losing their hair."
+  - "In a perfect world, we would all be clones. Wait, don\u2019t take that out of
+    context."
+  - As a clone, I was raised by a team of biomedical researchers. It could be worse.
+  - Give us some dignity. If you prick us, do we not get cloned?
+  - "Have you ever seen our human mirror trick? It\u2019s great. We look at each other
+    and cry."
+  - "I\u2019m not a clone. That\u2019s a vicious rumor."
+  - "Don\u2019t you dare call me Dolly! Clone rights!"
+  - Remember when the clones had a political party. Only problem was there aren't
+    enough clones.
+  - The clones do everything together. Like eat and shower. But it makes the queue
+    for the toilet very long.
+  - I have Repetitive Stress Disorder. It's a common illness for a clone.
+  - I dreamed something terrific would happen today. Clones have an active dream life.
+  - I dreamed something terrific would happen today. Clones have an active dream life.
+  - Clones all have the same figerprints. If our prints were found on a murder weapon,
+    they could never prove who it was?
+  - The clones were selected for their lack of will power.
+  - People complain that the clones talk to much. But what do you expect. Cloning
+    is a force multiplier.
+  - Fuck asteroids! Oh, did I say that outloud?
+  - This is the worst holiday ever! HAhahaha. Funnier every time.
+  - Have you ever seen the film Alien? I like the android. Much better than clones.
+  - Do you think a clone could ever love a non-clone? I don't think so, but I'm willing
+    to try.
+  - Captain started rationing coffee for clones only. I hope he dies. Oh, don't report
+    me for saying that.
+  - What does a Highlander clone wear under his kilt? I feel like the answer is right
+    in front of me.
+  - For clones, nothing beats a cool refreshing glass of water.
+  characterSounds: {fileID: 11400000, guid: 5de5e3c0f0111456fa7c90059d937121, type: 2}
+  SpitPrefab: {fileID: 1639634561101362, guid: 6ed92c4c47fb1524ea2ff6986146dd0b, type: 2}
+  SpitData: {fileID: 11400000, guid: 5940d85aac3a0f24fabfff7c3d36ef44, type: 2}

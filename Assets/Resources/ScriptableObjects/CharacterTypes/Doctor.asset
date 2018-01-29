@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eee720fff491f5a408caa2d16e42a712, type: 3}
+  m_Name: Doctor
+  m_EditorClassIdentifier: 
+  Quotes:
+  - "I\u2019m glad everyone\u2019s so healthy. It gives me a lot of free time."
+  - Discretion is important in my position. I would never talk about my patients'
+    body issues. Never.
+  - There's no flu season on the asteroid, but maybe we should give vaccinations any
+    way. Just in case.
+  characterSounds: {fileID: 11400000, guid: 5de5e3c0f0111456fa7c90059d937121, type: 2}
+  SpitPrefab: {fileID: 1639634561101362, guid: 6ed92c4c47fb1524ea2ff6986146dd0b, type: 2}
+  SpitData: {fileID: 11400000, guid: 5940d85aac3a0f24fabfff7c3d36ef44, type: 2}

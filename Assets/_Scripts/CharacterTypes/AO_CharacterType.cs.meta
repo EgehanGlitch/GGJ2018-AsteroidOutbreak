@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4c46df5cf1d61954c942519fd19b6a39
+timeCreated: 1517104409
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterSounds: {instanceID: 0}
+  - SpitPrefab: {fileID: 1639634561101362, guid: 6ed92c4c47fb1524ea2ff6986146dd0b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

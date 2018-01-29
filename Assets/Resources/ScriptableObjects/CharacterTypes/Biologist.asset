@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fc29120cd5da844a97fec0f6d6f3f7, type: 3}
+  m_Name: Biologist
+  m_EditorClassIdentifier: 
+  Quotes:
+  - "I\u2019ve been looking after the bats. I can\u2019t believe they\u2019ll be the
+    first colonists of an asteroid."
+  - It's my honor to look after the clones.
+  - There have been whispers about me abusing the clones, but I promise they aren't
+    true.
+  characterSounds: {fileID: 11400000, guid: 5de5e3c0f0111456fa7c90059d937121, type: 2}
+  SpitPrefab: {fileID: 1639634561101362, guid: 6ed92c4c47fb1524ea2ff6986146dd0b, type: 2}
+  SpitData: {fileID: 11400000, guid: 5940d85aac3a0f24fabfff7c3d36ef44, type: 2}

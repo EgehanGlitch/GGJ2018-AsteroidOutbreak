@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6280cebef2603ac45b23db36fe3652d3, type: 3}
+  m_Name: Engineer
+  m_EditorClassIdentifier: 
+  Quotes:
+  - "Can you tell the clones apart? I can\u2019t. I wanted to print numbers on their
+    uniform, but Captain says it sends the wrong message. "
+  - It's lucky that you have me on the station. Only I know to use the...(yawn) EGSPATE
+    MOB
+  - My love for Chef Goulier gets stronger everyday. But too bad there aren't really
+    days on an asteroid.
+  characterSounds: {fileID: 11400000, guid: 5de5e3c0f0111456fa7c90059d937121, type: 2}
+  SpitPrefab: {fileID: 1639634561101362, guid: 6ed92c4c47fb1524ea2ff6986146dd0b, type: 2}
+  SpitData: {fileID: 11400000, guid: 5940d85aac3a0f24fabfff7c3d36ef44, type: 2}
